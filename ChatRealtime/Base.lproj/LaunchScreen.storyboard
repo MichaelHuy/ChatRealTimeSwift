@@ -24,8 +24,8 @@
                                     <constraint firstAttribute="height" constant="256" id="to3-IO-BLK"/>
                                 </constraints>
                             </imageView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Huy Le @2016" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="LeS-Wm-v6U">
-                                <rect key="frame" x="71" y="614" width="235" height="45"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Huy Le @2016" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="LeS-Wm-v6U">
+                                <rect key="frame" x="70" y="614" width="235" height="45"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="235" id="C12-ja-5Y1"/>
                                     <constraint firstAttribute="height" constant="45" id="gE9-Za-ybi"/>
