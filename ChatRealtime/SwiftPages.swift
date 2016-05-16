@@ -28,7 +28,7 @@ public class SwiftPages: UIView {
     
     // Container view position variables
     private var xOrigin: CGFloat = 0
-    private var yOrigin: CGFloat = 64
+    private var yOrigin: CGFloat = 84
     private var distanceToBottom: CGFloat = 0
     
     // Color variables

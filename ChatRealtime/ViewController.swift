@@ -18,11 +18,12 @@ class ViewController: UIViewController {
         automaticallyAdjustsScrollViewInsets = false
         
         // Initiation
-        let VCIDs = ["FirstVC", "SecondVC"]
+        let VCIDs = ["GroupChatVC", "SecondVC", "FirstVC"]
         let buttonImages = [
-            UIImage(named:"HomeIcon.png")!,
-            UIImage(named:"LocationIcon.png")!
-//            UIImage(named:"CollectionIcon.png")!,
+            UIImage(named:"groupchat.png")!,
+            UIImage(named:"LocationIcon.png")!,
+            UIImage(named:"HomeIcon.png")!
+//            UIImage(named:"groupchat.png")!
 //            UIImage(named:"ListIcon.png")!,
 //            UIImage(named:"StarIcon.png")!
         ]
